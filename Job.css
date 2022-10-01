@@ -1,0 +1,30 @@
+html,body{
+    background-color:white;
+    background-image:url("JOB/Proj.jpg") ;
+}
+h1{
+    color: black;
+    font-size: 350px;
+    text-align: center;
+    background-image:url("JOB/Chick.jpg");
+    background-color: white;
+    background-repeat: repeat;
+    background-position-x: left;
+    background-size: 100%;
+    margin-top: 5px;
+    border-radius: 50%;
+    height: 1500px;
+    width: 80%;
+    align-items: center;
+
+}
+h2{
+    color: black;
+    font-size: 150px;
+    text-align: center;
+}
+p{
+    color: black;
+    text-align: center;
+    font-size: 100px;
+}
